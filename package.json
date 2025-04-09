@@ -1,0 +1,30 @@
+{
+    "name": "oxo-vscode-theme",
+    "displayName": "OXO VSCode Theme",
+    "description": "Code longer, strain less — dark theme designed for comfort.",
+    "icon": "images/oxo.png",
+    "version": "0.0.1",
+    "publisher": "briansadro",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/crurider/oxo-vscode-theme"
+    },
+    "bugs": {
+        "url": "http://github.com/crurider/oxo-vscode-theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.88.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OXO VScode Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/oxo-vscode-theme.json"
+            }
+        ]
+    }
+}
