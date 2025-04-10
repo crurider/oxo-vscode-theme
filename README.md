@@ -28,3 +28,13 @@ Perfect for developers who spend long hours in the editor, this theme prioritize
 
 ### JSON
 ![Screenshot JSON](images/screenshot_json.png)
+
+## Considerations
+
+- **settings.json**
+  ```
+  {
+    "editor.guides.indentation": true,
+    "editor.bracketPairColorization.enabled": true
+  }
+  ```

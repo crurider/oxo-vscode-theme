@@ -107,8 +107,8 @@
         "sideBarTitle.foreground": "#cccccc",
         "statusBar.background": "#181818",
         "statusBar.border": "#ffffff15",
-        "statusBar.debuggingBackground": "#282828",
-        "statusBar.debuggingForeground": "#ffffff",
+        "statusBar.debuggingBackground": "#1f1f1f",
+        "statusBar.debuggingForeground": "#d4d4d4",
         "statusBar.foreground": "#d4d4d4",
         "statusBar.noFolderBackground": "#1f1f1f",
         "statusBarItem.focusBorder": "#0078d4",
@@ -507,7 +507,9 @@
                 "entity.name.type.cs",
                 "entity.name.type",
                 "support.type",
-                "entity.other.attribute-name"
+                "entity.other.attribute-name",
+                "entity.other.attribute-name.class.css",
+                "source.css.scss"
             ],
             "settings": {
                 "foreground": "#EEDD7B"
