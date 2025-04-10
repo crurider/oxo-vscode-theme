@@ -4,7 +4,7 @@
     "description": "Code longer, strain less — dark theme designed for comfort.",
     "icon": "images/oxo.png",
     "version": "0.0.1",
-    "publisher": "briansadro",
+    "publisher": "briansandro",
     "repository": {
         "type": "git",
         "url": "http://github.com/crurider/oxo-vscode-theme"
