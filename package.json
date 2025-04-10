@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "OXO VScode Dark",
+                "label": "OXO VSCode Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/oxo-vscode-theme.json"
             }
